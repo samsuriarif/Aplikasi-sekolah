@@ -1,0 +1,6 @@
+{
+  "name": "Portal Guru MI Miftahul Huda Kertosono",
+  "description": "Aplikasi mobile-first cerdas untuk guru MI Miftahul Huda Kertosono: Kelola absensi, jurnal KBM harian, generator pesan WhatsApp wali murid, bank nilai tugas, jadwal mengajar, pengingat tugas harian, dan sinkronisasi laporan email ke samsuriarifkom@gmail.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

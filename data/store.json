@@ -1,0 +1,2209 @@
+{
+  "schoolProfile": {
+    "name": "MI Miftahul Huda Kertosono",
+    "nsm": "111235180024",
+    "npsn": "60718912",
+    "address": "Jl. Raya Miftahul Huda, Desa Kertosono, Kec. Panggul, Kab. Trenggalek, Jawa Timur",
+    "supervisorEmail": "samsuriarifkom@gmail.com"
+  },
+  "currentTeacher": {
+    "id": "tch-01",
+    "name": "Ahmad Fauzi, S.Pd.I",
+    "nip": "19880415 201403 1 002",
+    "subject": "Fikih & Akidah Akhlak",
+    "phone": "081234567891",
+    "email": "ahmadfauzi@miftahulhuda.sch.id",
+    "assignedClass": "Kelas 4A",
+    "gender": "L",
+    "notes": "Wali Kelas 4A"
+  },
+  "students": [
+    {
+      "id": "std-Kelas1A-1",
+      "nis": "20261101",
+      "name": "Ahmad Mubarak",
+      "gender": "L",
+      "className": "Kelas 1A",
+      "parentName": "Bpk. Mubarak",
+      "phone": "081234560001"
+    },
+    {
+      "id": "std-Kelas1A-2",
+      "nis": "20261102",
+      "name": "Alifiya Nur Azizah",
+      "gender": "P",
+      "className": "Kelas 1A",
+      "parentName": "Ibu Alifiya"
+    },
+    {
+      "id": "std-Kelas1A-3",
+      "nis": "20261103",
+      "name": "Dzaky Syahputra",
+      "gender": "L",
+      "className": "Kelas 1A",
+      "parentName": "Bpk. Syahputra",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas1A-4",
+      "nis": "20261104",
+      "name": "Hana Nafisah",
+      "gender": "P",
+      "className": "Kelas 1A",
+      "parentName": "Ibu Hana",
+      "phone": "081234560004"
+    },
+    {
+      "id": "std-Kelas1A-5",
+      "nis": "20261105",
+      "name": "Hafizh Rayyan",
+      "gender": "L",
+      "className": "Kelas 1A",
+      "parentName": "Bpk. Rayyan"
+    },
+    {
+      "id": "std-Kelas1A-6",
+      "nis": "20261106",
+      "name": "Nada Karimah",
+      "gender": "P",
+      "className": "Kelas 1A",
+      "parentName": "Ibu Nada"
+    },
+    {
+      "id": "std-Kelas1A-7",
+      "nis": "20261107",
+      "name": "M. Alfi Azka",
+      "gender": "L",
+      "className": "Kelas 1A",
+      "parentName": "Bpk. Azka",
+      "phone": "081234560007"
+    },
+    {
+      "id": "std-Kelas1A-8",
+      "nis": "20261108",
+      "name": "Zahira Talita",
+      "gender": "P",
+      "className": "Kelas 1A",
+      "parentName": "Ibu Zahira"
+    },
+    {
+      "id": "std-Kelas1A-9",
+      "nis": "20261109",
+      "name": "Nurul Maulana",
+      "gender": "L",
+      "className": "Kelas 1A",
+      "parentName": "Bpk. Maulana"
+    },
+    {
+      "id": "std-Kelas1A-10",
+      "nis": "20261110",
+      "name": "Maryam Kamilah",
+      "gender": "P",
+      "className": "Kelas 1A",
+      "parentName": "Ibu Maryam",
+      "phone": "081234560010"
+    },
+    {
+      "id": "std-Kelas1A-11",
+      "nis": "20261111",
+      "name": "Yusuf Al-Ayyubi",
+      "gender": "L",
+      "className": "Kelas 1A",
+      "parentName": "Bpk. Al-Ayyubi"
+    },
+    {
+      "id": "std-Kelas1A-12",
+      "nis": "20261112",
+      "name": "Khadijah Shakila",
+      "gender": "P",
+      "className": "Kelas 1A",
+      "parentName": "Ibu Khadijah"
+    },
+    {
+      "id": "std-Kelas1A-13",
+      "nis": "20261113",
+      "name": "Faris Ramadhan",
+      "gender": "L",
+      "className": "Kelas 1A",
+      "parentName": "Bpk. Ramadhan",
+      "phone": "081234560013"
+    },
+    {
+      "id": "std-Kelas1A-14",
+      "nis": "20261114",
+      "name": "Aisyah Nur Azizah",
+      "gender": "P",
+      "className": "Kelas 1A",
+      "parentName": "Ibu Aisyah"
+    },
+    {
+      "id": "std-Kelas1B-1",
+      "nis": "20261201",
+      "name": "Ahmad Mubarak",
+      "gender": "L",
+      "className": "Kelas 1B",
+      "parentName": "Bpk. Mubarak",
+      "phone": "081234560015"
+    },
+    {
+      "id": "std-Kelas1B-2",
+      "nis": "20261202",
+      "name": "Alifiya Nur Azizah",
+      "gender": "P",
+      "className": "Kelas 1B",
+      "parentName": "Ibu Alifiya"
+    },
+    {
+      "id": "std-Kelas1B-3",
+      "nis": "20261203",
+      "name": "Dzaky Syahputra",
+      "gender": "L",
+      "className": "Kelas 1B",
+      "parentName": "Bpk. Syahputra",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas1B-4",
+      "nis": "20261204",
+      "name": "Hana Nafisah",
+      "gender": "P",
+      "className": "Kelas 1B",
+      "parentName": "Ibu Hana",
+      "phone": "081234560018"
+    },
+    {
+      "id": "std-Kelas1B-5",
+      "nis": "20261205",
+      "name": "Hafizh Rayyan",
+      "gender": "L",
+      "className": "Kelas 1B",
+      "parentName": "Bpk. Rayyan"
+    },
+    {
+      "id": "std-Kelas1B-6",
+      "nis": "20261206",
+      "name": "Nada Karimah",
+      "gender": "P",
+      "className": "Kelas 1B",
+      "parentName": "Ibu Nada"
+    },
+    {
+      "id": "std-Kelas1B-7",
+      "nis": "20261207",
+      "name": "M. Alfi Azka",
+      "gender": "L",
+      "className": "Kelas 1B",
+      "parentName": "Bpk. Azka",
+      "phone": "081234560021"
+    },
+    {
+      "id": "std-Kelas1B-8",
+      "nis": "20261208",
+      "name": "Zahira Talita",
+      "gender": "P",
+      "className": "Kelas 1B",
+      "parentName": "Ibu Zahira"
+    },
+    {
+      "id": "std-Kelas1B-9",
+      "nis": "20261209",
+      "name": "Nurul Maulana",
+      "gender": "L",
+      "className": "Kelas 1B",
+      "parentName": "Bpk. Maulana"
+    },
+    {
+      "id": "std-Kelas1B-10",
+      "nis": "20261210",
+      "name": "Maryam Kamilah",
+      "gender": "P",
+      "className": "Kelas 1B",
+      "parentName": "Ibu Maryam",
+      "phone": "081234560024"
+    },
+    {
+      "id": "std-Kelas1B-11",
+      "nis": "20261211",
+      "name": "Yusuf Al-Ayyubi",
+      "gender": "L",
+      "className": "Kelas 1B",
+      "parentName": "Bpk. Al-Ayyubi"
+    },
+    {
+      "id": "std-Kelas1B-12",
+      "nis": "20261212",
+      "name": "Khadijah Shakila",
+      "gender": "P",
+      "className": "Kelas 1B",
+      "parentName": "Ibu Khadijah"
+    },
+    {
+      "id": "std-Kelas1B-13",
+      "nis": "20261213",
+      "name": "Faris Ramadhan",
+      "gender": "L",
+      "className": "Kelas 1B",
+      "parentName": "Bpk. Ramadhan",
+      "phone": "081234560027"
+    },
+    {
+      "id": "std-Kelas1B-14",
+      "nis": "20261214",
+      "name": "Aisyah Nur Azizah",
+      "gender": "P",
+      "className": "Kelas 1B",
+      "parentName": "Ibu Aisyah"
+    },
+    {
+      "id": "std-Kelas2A-1",
+      "nis": "20252101",
+      "name": "Bilal Habibi",
+      "gender": "L",
+      "className": "Kelas 2A",
+      "parentName": "Bpk. Habibi",
+      "phone": "081234560029"
+    },
+    {
+      "id": "std-Kelas2A-2",
+      "nis": "20252102",
+      "name": "Fathimah Zahra",
+      "gender": "P",
+      "className": "Kelas 2A",
+      "parentName": "Ibu Fathimah"
+    },
+    {
+      "id": "std-Kelas2A-3",
+      "nis": "20252103",
+      "name": "Fatih Al-Ghifari",
+      "gender": "L",
+      "className": "Kelas 2A",
+      "parentName": "Bpk. Al-Ghifari",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas2A-4",
+      "nis": "20252104",
+      "name": "Kayla Salsabila",
+      "gender": "P",
+      "className": "Kelas 2A",
+      "parentName": "Ibu Kayla",
+      "phone": "081234560032"
+    },
+    {
+      "id": "std-Kelas2A-5",
+      "nis": "20252105",
+      "name": "Ibrahim Syahrin",
+      "gender": "L",
+      "className": "Kelas 2A",
+      "parentName": "Bpk. Syahrin"
+    },
+    {
+      "id": "std-Kelas2A-6",
+      "nis": "20252106",
+      "name": "Salwa Syarifah",
+      "gender": "P",
+      "className": "Kelas 2A",
+      "parentName": "Ibu Salwa"
+    },
+    {
+      "id": "std-Kelas2A-7",
+      "nis": "20252107",
+      "name": "M. Naufal Hidayatullah",
+      "gender": "L",
+      "className": "Kelas 2A",
+      "parentName": "Bpk. Hidayatullah",
+      "phone": "081234560035"
+    },
+    {
+      "id": "std-Kelas2A-8",
+      "nis": "20252108",
+      "name": "Naila Husna",
+      "gender": "P",
+      "className": "Kelas 2A",
+      "parentName": "Ibu Naila"
+    },
+    {
+      "id": "std-Kelas2A-9",
+      "nis": "20252109",
+      "name": "Rayhan Hakim",
+      "gender": "L",
+      "className": "Kelas 2A",
+      "parentName": "Bpk. Hakim"
+    },
+    {
+      "id": "std-Kelas2A-10",
+      "nis": "20252110",
+      "name": "Safiyyah Azzahra",
+      "gender": "P",
+      "className": "Kelas 2A",
+      "parentName": "Ibu Safiyyah",
+      "phone": "081234560038"
+    },
+    {
+      "id": "std-Kelas2A-11",
+      "nis": "20252111",
+      "name": "Wildan Shiddiq",
+      "gender": "L",
+      "className": "Kelas 2A",
+      "parentName": "Bpk. Shiddiq"
+    },
+    {
+      "id": "std-Kelas2A-12",
+      "nis": "20252112",
+      "name": "Adiba Putri",
+      "gender": "P",
+      "className": "Kelas 2A",
+      "parentName": "Ibu Adiba"
+    },
+    {
+      "id": "std-Kelas2A-13",
+      "nis": "20252113",
+      "name": "Salman Mubarak",
+      "gender": "L",
+      "className": "Kelas 2A",
+      "parentName": "Bpk. Mubarak",
+      "phone": "081234560041"
+    },
+    {
+      "id": "std-Kelas2A-14",
+      "nis": "20252114",
+      "name": "Alifiya Zahra",
+      "gender": "P",
+      "className": "Kelas 2A",
+      "parentName": "Ibu Alifiya"
+    },
+    {
+      "id": "std-Kelas2B-1",
+      "nis": "20252201",
+      "name": "Bilal Habibi",
+      "gender": "L",
+      "className": "Kelas 2B",
+      "parentName": "Bpk. Habibi",
+      "phone": "081234560043"
+    },
+    {
+      "id": "std-Kelas2B-2",
+      "nis": "20252202",
+      "name": "Fathimah Zahra",
+      "gender": "P",
+      "className": "Kelas 2B",
+      "parentName": "Ibu Fathimah"
+    },
+    {
+      "id": "std-Kelas2B-3",
+      "nis": "20252203",
+      "name": "Fatih Al-Ghifari",
+      "gender": "L",
+      "className": "Kelas 2B",
+      "parentName": "Bpk. Al-Ghifari",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas2B-4",
+      "nis": "20252204",
+      "name": "Kayla Salsabila",
+      "gender": "P",
+      "className": "Kelas 2B",
+      "parentName": "Ibu Kayla",
+      "phone": "081234560046"
+    },
+    {
+      "id": "std-Kelas2B-5",
+      "nis": "20252205",
+      "name": "Ibrahim Syahrin",
+      "gender": "L",
+      "className": "Kelas 2B",
+      "parentName": "Bpk. Syahrin"
+    },
+    {
+      "id": "std-Kelas2B-6",
+      "nis": "20252206",
+      "name": "Salwa Syarifah",
+      "gender": "P",
+      "className": "Kelas 2B",
+      "parentName": "Ibu Salwa"
+    },
+    {
+      "id": "std-Kelas2B-7",
+      "nis": "20252207",
+      "name": "M. Naufal Hidayatullah",
+      "gender": "L",
+      "className": "Kelas 2B",
+      "parentName": "Bpk. Hidayatullah",
+      "phone": "081234560049"
+    },
+    {
+      "id": "std-Kelas2B-8",
+      "nis": "20252208",
+      "name": "Naila Husna",
+      "gender": "P",
+      "className": "Kelas 2B",
+      "parentName": "Ibu Naila"
+    },
+    {
+      "id": "std-Kelas2B-9",
+      "nis": "20252209",
+      "name": "Rayhan Hakim",
+      "gender": "L",
+      "className": "Kelas 2B",
+      "parentName": "Bpk. Hakim"
+    },
+    {
+      "id": "std-Kelas2B-10",
+      "nis": "20252210",
+      "name": "Safiyyah Azzahra",
+      "gender": "P",
+      "className": "Kelas 2B",
+      "parentName": "Ibu Safiyyah",
+      "phone": "081234560052"
+    },
+    {
+      "id": "std-Kelas2B-11",
+      "nis": "20252211",
+      "name": "Wildan Shiddiq",
+      "gender": "L",
+      "className": "Kelas 2B",
+      "parentName": "Bpk. Shiddiq"
+    },
+    {
+      "id": "std-Kelas2B-12",
+      "nis": "20252212",
+      "name": "Adiba Putri",
+      "gender": "P",
+      "className": "Kelas 2B",
+      "parentName": "Ibu Adiba"
+    },
+    {
+      "id": "std-Kelas2B-13",
+      "nis": "20252213",
+      "name": "Salman Mubarak",
+      "gender": "L",
+      "className": "Kelas 2B",
+      "parentName": "Bpk. Mubarak",
+      "phone": "081234560055"
+    },
+    {
+      "id": "std-Kelas2B-14",
+      "nis": "20252214",
+      "name": "Alifiya Zahra",
+      "gender": "P",
+      "className": "Kelas 2B",
+      "parentName": "Ibu Alifiya"
+    },
+    {
+      "id": "std-Kelas3A-1",
+      "nis": "20243101",
+      "name": "Dzaky Syahputra",
+      "gender": "L",
+      "className": "Kelas 3A",
+      "parentName": "Bpk. Syahputra",
+      "phone": "081234560057"
+    },
+    {
+      "id": "std-Kelas3A-2",
+      "nis": "20243102",
+      "name": "Hana Nafisah",
+      "gender": "P",
+      "className": "Kelas 3A",
+      "parentName": "Ibu Hana"
+    },
+    {
+      "id": "std-Kelas3A-3",
+      "nis": "20243103",
+      "name": "Hafizh Rayyan",
+      "gender": "L",
+      "className": "Kelas 3A",
+      "parentName": "Bpk. Rayyan",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas3A-4",
+      "nis": "20243104",
+      "name": "Nada Karimah",
+      "gender": "P",
+      "className": "Kelas 3A",
+      "parentName": "Ibu Nada",
+      "phone": "081234560060"
+    },
+    {
+      "id": "std-Kelas3A-5",
+      "nis": "20243105",
+      "name": "M. Alfi Azka",
+      "gender": "L",
+      "className": "Kelas 3A",
+      "parentName": "Bpk. Azka"
+    },
+    {
+      "id": "std-Kelas3A-6",
+      "nis": "20243106",
+      "name": "Zahira Talita",
+      "gender": "P",
+      "className": "Kelas 3A",
+      "parentName": "Ibu Zahira"
+    },
+    {
+      "id": "std-Kelas3A-7",
+      "nis": "20243107",
+      "name": "Nurul Maulana",
+      "gender": "L",
+      "className": "Kelas 3A",
+      "parentName": "Bpk. Maulana",
+      "phone": "081234560063"
+    },
+    {
+      "id": "std-Kelas3A-8",
+      "nis": "20243108",
+      "name": "Maryam Kamilah",
+      "gender": "P",
+      "className": "Kelas 3A",
+      "parentName": "Ibu Maryam"
+    },
+    {
+      "id": "std-Kelas3A-9",
+      "nis": "20243109",
+      "name": "Yusuf Al-Ayyubi",
+      "gender": "L",
+      "className": "Kelas 3A",
+      "parentName": "Bpk. Al-Ayyubi"
+    },
+    {
+      "id": "std-Kelas3A-10",
+      "nis": "20243110",
+      "name": "Khadijah Shakila",
+      "gender": "P",
+      "className": "Kelas 3A",
+      "parentName": "Ibu Khadijah",
+      "phone": "081234560066"
+    },
+    {
+      "id": "std-Kelas3A-11",
+      "nis": "20243111",
+      "name": "Faris Ramadhan",
+      "gender": "L",
+      "className": "Kelas 3A",
+      "parentName": "Bpk. Ramadhan"
+    },
+    {
+      "id": "std-Kelas3A-12",
+      "nis": "20243112",
+      "name": "Aisyah Nur Azizah",
+      "gender": "P",
+      "className": "Kelas 3A",
+      "parentName": "Ibu Aisyah"
+    },
+    {
+      "id": "std-Kelas3A-13",
+      "nis": "20243113",
+      "name": "Achmad Habibi",
+      "gender": "L",
+      "className": "Kelas 3A",
+      "parentName": "Bpk. Habibi",
+      "phone": "081234560069"
+    },
+    {
+      "id": "std-Kelas3A-14",
+      "nis": "20243114",
+      "name": "Fathimah Nafisah",
+      "gender": "P",
+      "className": "Kelas 3A",
+      "parentName": "Ibu Fathimah"
+    },
+    {
+      "id": "std-Kelas3B-1",
+      "nis": "20243201",
+      "name": "Dzaky Syahputra",
+      "gender": "L",
+      "className": "Kelas 3B",
+      "parentName": "Bpk. Syahputra",
+      "phone": "081234560071"
+    },
+    {
+      "id": "std-Kelas3B-2",
+      "nis": "20243202",
+      "name": "Hana Nafisah",
+      "gender": "P",
+      "className": "Kelas 3B",
+      "parentName": "Ibu Hana"
+    },
+    {
+      "id": "std-Kelas3B-3",
+      "nis": "20243203",
+      "name": "Hafizh Rayyan",
+      "gender": "L",
+      "className": "Kelas 3B",
+      "parentName": "Bpk. Rayyan",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas3B-4",
+      "nis": "20243204",
+      "name": "Nada Karimah",
+      "gender": "P",
+      "className": "Kelas 3B",
+      "parentName": "Ibu Nada",
+      "phone": "081234560074"
+    },
+    {
+      "id": "std-Kelas3B-5",
+      "nis": "20243205",
+      "name": "M. Alfi Azka",
+      "gender": "L",
+      "className": "Kelas 3B",
+      "parentName": "Bpk. Azka"
+    },
+    {
+      "id": "std-Kelas3B-6",
+      "nis": "20243206",
+      "name": "Zahira Talita",
+      "gender": "P",
+      "className": "Kelas 3B",
+      "parentName": "Ibu Zahira"
+    },
+    {
+      "id": "std-Kelas3B-7",
+      "nis": "20243207",
+      "name": "Nurul Maulana",
+      "gender": "L",
+      "className": "Kelas 3B",
+      "parentName": "Bpk. Maulana",
+      "phone": "081234560077"
+    },
+    {
+      "id": "std-Kelas3B-8",
+      "nis": "20243208",
+      "name": "Maryam Kamilah",
+      "gender": "P",
+      "className": "Kelas 3B",
+      "parentName": "Ibu Maryam"
+    },
+    {
+      "id": "std-Kelas3B-9",
+      "nis": "20243209",
+      "name": "Yusuf Al-Ayyubi",
+      "gender": "L",
+      "className": "Kelas 3B",
+      "parentName": "Bpk. Al-Ayyubi"
+    },
+    {
+      "id": "std-Kelas3B-10",
+      "nis": "20243210",
+      "name": "Khadijah Shakila",
+      "gender": "P",
+      "className": "Kelas 3B",
+      "parentName": "Ibu Khadijah",
+      "phone": "081234560080"
+    },
+    {
+      "id": "std-Kelas3B-11",
+      "nis": "20243211",
+      "name": "Faris Ramadhan",
+      "gender": "L",
+      "className": "Kelas 3B",
+      "parentName": "Bpk. Ramadhan"
+    },
+    {
+      "id": "std-Kelas3B-12",
+      "nis": "20243212",
+      "name": "Aisyah Nur Azizah",
+      "gender": "P",
+      "className": "Kelas 3B",
+      "parentName": "Ibu Aisyah"
+    },
+    {
+      "id": "std-Kelas3B-13",
+      "nis": "20243213",
+      "name": "Achmad Habibi",
+      "gender": "L",
+      "className": "Kelas 3B",
+      "parentName": "Bpk. Habibi",
+      "phone": "081234560083"
+    },
+    {
+      "id": "std-Kelas3B-14",
+      "nis": "20243214",
+      "name": "Fathimah Nafisah",
+      "gender": "P",
+      "className": "Kelas 3B",
+      "parentName": "Ibu Fathimah"
+    },
+    {
+      "id": "std-Kelas4A-1",
+      "nis": "20234101",
+      "name": "Fatih Al-Ghifari",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Al-Ghifari",
+      "phone": "081234560085"
+    },
+    {
+      "id": "std-Kelas4A-2",
+      "nis": "20234102",
+      "name": "Kayla Salsabila",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Kayla"
+    },
+    {
+      "id": "std-Kelas4A-3",
+      "nis": "20234103",
+      "name": "Ibrahim Syahrin",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Syahrin",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas4A-4",
+      "nis": "20234104",
+      "name": "Salwa Syarifah",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Salwa",
+      "phone": "081234560088"
+    },
+    {
+      "id": "std-Kelas4A-5",
+      "nis": "20234105",
+      "name": "M. Naufal Hidayatullah",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Hidayatullah"
+    },
+    {
+      "id": "std-Kelas4A-6",
+      "nis": "20234106",
+      "name": "Naila Husna",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Naila"
+    },
+    {
+      "id": "std-Kelas4A-7",
+      "nis": "20234107",
+      "name": "Rayhan Hakim",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Hakim",
+      "phone": "081234560091"
+    },
+    {
+      "id": "std-Kelas4A-8",
+      "nis": "20234108",
+      "name": "Safiyyah Azzahra",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Safiyyah"
+    },
+    {
+      "id": "std-Kelas4A-9",
+      "nis": "20234109",
+      "name": "Wildan Shiddiq",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Shiddiq"
+    },
+    {
+      "id": "std-Kelas4A-10",
+      "nis": "20234110",
+      "name": "Adiba Putri",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Adiba",
+      "phone": "081234560094"
+    },
+    {
+      "id": "std-Kelas4A-11",
+      "nis": "20234111",
+      "name": "Salman Mubarak",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Mubarak"
+    },
+    {
+      "id": "std-Kelas4A-12",
+      "nis": "20234112",
+      "name": "Alifiya Zahra",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Alifiya"
+    },
+    {
+      "id": "std-Kelas4A-13",
+      "nis": "20234113",
+      "name": "Ahmad Syahputra",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Syahputra",
+      "phone": "081234560097"
+    },
+    {
+      "id": "std-Kelas4A-14",
+      "nis": "20234114",
+      "name": "Hana Salsabila",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Hana"
+    },
+    {
+      "id": "std-Kelas4A-15",
+      "nis": "20234115",
+      "name": "Dzaky Rayyan",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Rayyan"
+    },
+    {
+      "id": "std-Kelas4A-16",
+      "nis": "20234116",
+      "name": "Nada Syarifah",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Nada",
+      "phone": "081234560100"
+    },
+    {
+      "id": "std-Kelas4A-17",
+      "nis": "20234117",
+      "name": "Hafizh Azka",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Azka"
+    },
+    {
+      "id": "std-Kelas4A-18",
+      "nis": "20234118",
+      "name": "Zahira Husna",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Zahira"
+    },
+    {
+      "id": "std-Kelas4A-19",
+      "nis": "20234119",
+      "name": "M. Alfi Maulana",
+      "gender": "L",
+      "className": "Kelas 4A",
+      "parentName": "Bpk. Maulana",
+      "phone": "081234560103"
+    },
+    {
+      "id": "std-Kelas4A-20",
+      "nis": "20234120",
+      "name": "Maryam Azzahra",
+      "gender": "P",
+      "className": "Kelas 4A",
+      "parentName": "Ibu Maryam"
+    },
+    {
+      "id": "std-Kelas4B-1",
+      "nis": "20234201",
+      "name": "Fatih Al-Ghifari",
+      "gender": "L",
+      "className": "Kelas 4B",
+      "parentName": "Bpk. Al-Ghifari",
+      "phone": "081234560105"
+    },
+    {
+      "id": "std-Kelas4B-2",
+      "nis": "20234202",
+      "name": "Kayla Salsabila",
+      "gender": "P",
+      "className": "Kelas 4B",
+      "parentName": "Ibu Kayla"
+    },
+    {
+      "id": "std-Kelas4B-3",
+      "nis": "20234203",
+      "name": "Ibrahim Syahrin",
+      "gender": "L",
+      "className": "Kelas 4B",
+      "parentName": "Bpk. Syahrin",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas4B-4",
+      "nis": "20234204",
+      "name": "Salwa Syarifah",
+      "gender": "P",
+      "className": "Kelas 4B",
+      "parentName": "Ibu Salwa",
+      "phone": "081234560108"
+    },
+    {
+      "id": "std-Kelas4B-5",
+      "nis": "20234205",
+      "name": "M. Naufal Hidayatullah",
+      "gender": "L",
+      "className": "Kelas 4B",
+      "parentName": "Bpk. Hidayatullah"
+    },
+    {
+      "id": "std-Kelas4B-6",
+      "nis": "20234206",
+      "name": "Naila Husna",
+      "gender": "P",
+      "className": "Kelas 4B",
+      "parentName": "Ibu Naila"
+    },
+    {
+      "id": "std-Kelas4B-7",
+      "nis": "20234207",
+      "name": "Rayhan Hakim",
+      "gender": "L",
+      "className": "Kelas 4B",
+      "parentName": "Bpk. Hakim",
+      "phone": "081234560111"
+    },
+    {
+      "id": "std-Kelas4B-8",
+      "nis": "20234208",
+      "name": "Safiyyah Azzahra",
+      "gender": "P",
+      "className": "Kelas 4B",
+      "parentName": "Ibu Safiyyah"
+    },
+    {
+      "id": "std-Kelas4B-9",
+      "nis": "20234209",
+      "name": "Wildan Shiddiq",
+      "gender": "L",
+      "className": "Kelas 4B",
+      "parentName": "Bpk. Shiddiq"
+    },
+    {
+      "id": "std-Kelas4B-10",
+      "nis": "20234210",
+      "name": "Adiba Putri",
+      "gender": "P",
+      "className": "Kelas 4B",
+      "parentName": "Ibu Adiba",
+      "phone": "081234560114"
+    },
+    {
+      "id": "std-Kelas4B-11",
+      "nis": "20234211",
+      "name": "Salman Mubarak",
+      "gender": "L",
+      "className": "Kelas 4B",
+      "parentName": "Bpk. Mubarak"
+    },
+    {
+      "id": "std-Kelas4B-12",
+      "nis": "20234212",
+      "name": "Alifiya Zahra",
+      "gender": "P",
+      "className": "Kelas 4B",
+      "parentName": "Ibu Alifiya"
+    },
+    {
+      "id": "std-Kelas4B-13",
+      "nis": "20234213",
+      "name": "Ahmad Syahputra",
+      "gender": "L",
+      "className": "Kelas 4B",
+      "parentName": "Bpk. Syahputra",
+      "phone": "081234560117"
+    },
+    {
+      "id": "std-Kelas4B-14",
+      "nis": "20234214",
+      "name": "Hana Salsabila",
+      "gender": "P",
+      "className": "Kelas 4B",
+      "parentName": "Ibu Hana"
+    },
+    {
+      "id": "std-Kelas5A-1",
+      "nis": "20225101",
+      "name": "Hafizh Rayyan",
+      "gender": "L",
+      "className": "Kelas 5A",
+      "parentName": "Bpk. Rayyan",
+      "phone": "081234560119"
+    },
+    {
+      "id": "std-Kelas5A-2",
+      "nis": "20225102",
+      "name": "Nada Karimah",
+      "gender": "P",
+      "className": "Kelas 5A",
+      "parentName": "Ibu Nada"
+    },
+    {
+      "id": "std-Kelas5A-3",
+      "nis": "20225103",
+      "name": "M. Alfi Azka",
+      "gender": "L",
+      "className": "Kelas 5A",
+      "parentName": "Bpk. Azka",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas5A-4",
+      "nis": "20225104",
+      "name": "Zahira Talita",
+      "gender": "P",
+      "className": "Kelas 5A",
+      "parentName": "Ibu Zahira",
+      "phone": "081234560122"
+    },
+    {
+      "id": "std-Kelas5A-5",
+      "nis": "20225105",
+      "name": "Nurul Maulana",
+      "gender": "L",
+      "className": "Kelas 5A",
+      "parentName": "Bpk. Maulana"
+    },
+    {
+      "id": "std-Kelas5A-6",
+      "nis": "20225106",
+      "name": "Maryam Kamilah",
+      "gender": "P",
+      "className": "Kelas 5A",
+      "parentName": "Ibu Maryam"
+    },
+    {
+      "id": "std-Kelas5A-7",
+      "nis": "20225107",
+      "name": "Yusuf Al-Ayyubi",
+      "gender": "L",
+      "className": "Kelas 5A",
+      "parentName": "Bpk. Al-Ayyubi",
+      "phone": "081234560125"
+    },
+    {
+      "id": "std-Kelas5A-8",
+      "nis": "20225108",
+      "name": "Khadijah Shakila",
+      "gender": "P",
+      "className": "Kelas 5A",
+      "parentName": "Ibu Khadijah"
+    },
+    {
+      "id": "std-Kelas5A-9",
+      "nis": "20225109",
+      "name": "Faris Ramadhan",
+      "gender": "L",
+      "className": "Kelas 5A",
+      "parentName": "Bpk. Ramadhan"
+    },
+    {
+      "id": "std-Kelas5A-10",
+      "nis": "20225110",
+      "name": "Aisyah Nur Azizah",
+      "gender": "P",
+      "className": "Kelas 5A",
+      "parentName": "Ibu Aisyah",
+      "phone": "081234560128"
+    },
+    {
+      "id": "std-Kelas5A-11",
+      "nis": "20225111",
+      "name": "Achmad Habibi",
+      "gender": "L",
+      "className": "Kelas 5A",
+      "parentName": "Bpk. Habibi"
+    },
+    {
+      "id": "std-Kelas5A-12",
+      "nis": "20225112",
+      "name": "Fathimah Nafisah",
+      "gender": "P",
+      "className": "Kelas 5A",
+      "parentName": "Ibu Fathimah"
+    },
+    {
+      "id": "std-Kelas5A-13",
+      "nis": "20225113",
+      "name": "Bilal Al-Ghifari",
+      "gender": "L",
+      "className": "Kelas 5A",
+      "parentName": "Bpk. Al-Ghifari",
+      "phone": "081234560131"
+    },
+    {
+      "id": "std-Kelas5A-14",
+      "nis": "20225114",
+      "name": "Kayla Karimah",
+      "gender": "P",
+      "className": "Kelas 5A",
+      "parentName": "Ibu Kayla"
+    },
+    {
+      "id": "std-Kelas5B-1",
+      "nis": "20225201",
+      "name": "Hafizh Rayyan",
+      "gender": "L",
+      "className": "Kelas 5B",
+      "parentName": "Bpk. Rayyan",
+      "phone": "081234560133"
+    },
+    {
+      "id": "std-Kelas5B-2",
+      "nis": "20225202",
+      "name": "Nada Karimah",
+      "gender": "P",
+      "className": "Kelas 5B",
+      "parentName": "Ibu Nada"
+    },
+    {
+      "id": "std-Kelas5B-3",
+      "nis": "20225203",
+      "name": "M. Alfi Azka",
+      "gender": "L",
+      "className": "Kelas 5B",
+      "parentName": "Bpk. Azka",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas5B-4",
+      "nis": "20225204",
+      "name": "Zahira Talita",
+      "gender": "P",
+      "className": "Kelas 5B",
+      "parentName": "Ibu Zahira",
+      "phone": "081234560136"
+    },
+    {
+      "id": "std-Kelas5B-5",
+      "nis": "20225205",
+      "name": "Nurul Maulana",
+      "gender": "L",
+      "className": "Kelas 5B",
+      "parentName": "Bpk. Maulana"
+    },
+    {
+      "id": "std-Kelas5B-6",
+      "nis": "20225206",
+      "name": "Maryam Kamilah",
+      "gender": "P",
+      "className": "Kelas 5B",
+      "parentName": "Ibu Maryam"
+    },
+    {
+      "id": "std-Kelas5B-7",
+      "nis": "20225207",
+      "name": "Yusuf Al-Ayyubi",
+      "gender": "L",
+      "className": "Kelas 5B",
+      "parentName": "Bpk. Al-Ayyubi",
+      "phone": "081234560139"
+    },
+    {
+      "id": "std-Kelas5B-8",
+      "nis": "20225208",
+      "name": "Khadijah Shakila",
+      "gender": "P",
+      "className": "Kelas 5B",
+      "parentName": "Ibu Khadijah"
+    },
+    {
+      "id": "std-Kelas5B-9",
+      "nis": "20225209",
+      "name": "Faris Ramadhan",
+      "gender": "L",
+      "className": "Kelas 5B",
+      "parentName": "Bpk. Ramadhan"
+    },
+    {
+      "id": "std-Kelas5B-10",
+      "nis": "20225210",
+      "name": "Aisyah Nur Azizah",
+      "gender": "P",
+      "className": "Kelas 5B",
+      "parentName": "Ibu Aisyah",
+      "phone": "081234560142"
+    },
+    {
+      "id": "std-Kelas5B-11",
+      "nis": "20225211",
+      "name": "Achmad Habibi",
+      "gender": "L",
+      "className": "Kelas 5B",
+      "parentName": "Bpk. Habibi"
+    },
+    {
+      "id": "std-Kelas5B-12",
+      "nis": "20225212",
+      "name": "Fathimah Nafisah",
+      "gender": "P",
+      "className": "Kelas 5B",
+      "parentName": "Ibu Fathimah"
+    },
+    {
+      "id": "std-Kelas5B-13",
+      "nis": "20225213",
+      "name": "Bilal Al-Ghifari",
+      "gender": "L",
+      "className": "Kelas 5B",
+      "parentName": "Bpk. Al-Ghifari",
+      "phone": "081234560145"
+    },
+    {
+      "id": "std-Kelas5B-14",
+      "nis": "20225214",
+      "name": "Kayla Karimah",
+      "gender": "P",
+      "className": "Kelas 5B",
+      "parentName": "Ibu Kayla"
+    },
+    {
+      "id": "std-Kelas6A-1",
+      "nis": "20216101",
+      "name": "Ibrahim Syahrin",
+      "gender": "L",
+      "className": "Kelas 6A",
+      "parentName": "Bpk. Syahrin",
+      "phone": "081234560147"
+    },
+    {
+      "id": "std-Kelas6A-2",
+      "nis": "20216102",
+      "name": "Salwa Syarifah",
+      "gender": "P",
+      "className": "Kelas 6A",
+      "parentName": "Ibu Salwa"
+    },
+    {
+      "id": "std-Kelas6A-3",
+      "nis": "20216103",
+      "name": "M. Naufal Hidayatullah",
+      "gender": "L",
+      "className": "Kelas 6A",
+      "parentName": "Bpk. Hidayatullah",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas6A-4",
+      "nis": "20216104",
+      "name": "Naila Husna",
+      "gender": "P",
+      "className": "Kelas 6A",
+      "parentName": "Ibu Naila",
+      "phone": "081234560150"
+    },
+    {
+      "id": "std-Kelas6A-5",
+      "nis": "20216105",
+      "name": "Rayhan Hakim",
+      "gender": "L",
+      "className": "Kelas 6A",
+      "parentName": "Bpk. Hakim"
+    },
+    {
+      "id": "std-Kelas6A-6",
+      "nis": "20216106",
+      "name": "Safiyyah Azzahra",
+      "gender": "P",
+      "className": "Kelas 6A",
+      "parentName": "Ibu Safiyyah"
+    },
+    {
+      "id": "std-Kelas6A-7",
+      "nis": "20216107",
+      "name": "Wildan Shiddiq",
+      "gender": "L",
+      "className": "Kelas 6A",
+      "parentName": "Bpk. Shiddiq",
+      "phone": "081234560153"
+    },
+    {
+      "id": "std-Kelas6A-8",
+      "nis": "20216108",
+      "name": "Adiba Putri",
+      "gender": "P",
+      "className": "Kelas 6A",
+      "parentName": "Ibu Adiba"
+    },
+    {
+      "id": "std-Kelas6A-9",
+      "nis": "20216109",
+      "name": "Salman Mubarak",
+      "gender": "L",
+      "className": "Kelas 6A",
+      "parentName": "Bpk. Mubarak"
+    },
+    {
+      "id": "std-Kelas6A-10",
+      "nis": "20216110",
+      "name": "Alifiya Zahra",
+      "gender": "P",
+      "className": "Kelas 6A",
+      "parentName": "Ibu Alifiya",
+      "phone": "081234560156"
+    },
+    {
+      "id": "std-Kelas6A-11",
+      "nis": "20216111",
+      "name": "Ahmad Syahputra",
+      "gender": "L",
+      "className": "Kelas 6A",
+      "parentName": "Bpk. Syahputra"
+    },
+    {
+      "id": "std-Kelas6A-12",
+      "nis": "20216112",
+      "name": "Hana Salsabila",
+      "gender": "P",
+      "className": "Kelas 6A",
+      "parentName": "Ibu Hana"
+    },
+    {
+      "id": "std-Kelas6A-13",
+      "nis": "20216113",
+      "name": "Dzaky Rayyan",
+      "gender": "L",
+      "className": "Kelas 6A",
+      "parentName": "Bpk. Rayyan",
+      "phone": "081234560159"
+    },
+    {
+      "id": "std-Kelas6A-14",
+      "nis": "20216114",
+      "name": "Nada Syarifah",
+      "gender": "P",
+      "className": "Kelas 6A",
+      "parentName": "Ibu Nada"
+    },
+    {
+      "id": "std-Kelas6B-1",
+      "nis": "20216201",
+      "name": "Ibrahim Syahrin",
+      "gender": "L",
+      "className": "Kelas 6B",
+      "parentName": "Bpk. Syahrin",
+      "phone": "081234560161"
+    },
+    {
+      "id": "std-Kelas6B-2",
+      "nis": "20216202",
+      "name": "Salwa Syarifah",
+      "gender": "P",
+      "className": "Kelas 6B",
+      "parentName": "Ibu Salwa"
+    },
+    {
+      "id": "std-Kelas6B-3",
+      "nis": "20216203",
+      "name": "M. Naufal Hidayatullah",
+      "gender": "L",
+      "className": "Kelas 6B",
+      "parentName": "Bpk. Hidayatullah",
+      "notes": "Anak aktif di kelas"
+    },
+    {
+      "id": "std-Kelas6B-4",
+      "nis": "20216204",
+      "name": "Naila Husna",
+      "gender": "P",
+      "className": "Kelas 6B",
+      "parentName": "Ibu Naila",
+      "phone": "081234560164"
+    },
+    {
+      "id": "std-Kelas6B-5",
+      "nis": "20216205",
+      "name": "Rayhan Hakim",
+      "gender": "L",
+      "className": "Kelas 6B",
+      "parentName": "Bpk. Hakim"
+    },
+    {
+      "id": "std-Kelas6B-6",
+      "nis": "20216206",
+      "name": "Safiyyah Azzahra",
+      "gender": "P",
+      "className": "Kelas 6B",
+      "parentName": "Ibu Safiyyah"
+    },
+    {
+      "id": "std-Kelas6B-7",
+      "nis": "20216207",
+      "name": "Wildan Shiddiq",
+      "gender": "L",
+      "className": "Kelas 6B",
+      "parentName": "Bpk. Shiddiq",
+      "phone": "081234560167"
+    },
+    {
+      "id": "std-Kelas6B-8",
+      "nis": "20216208",
+      "name": "Adiba Putri",
+      "gender": "P",
+      "className": "Kelas 6B",
+      "parentName": "Ibu Adiba"
+    },
+    {
+      "id": "std-Kelas6B-9",
+      "nis": "20216209",
+      "name": "Salman Mubarak",
+      "gender": "L",
+      "className": "Kelas 6B",
+      "parentName": "Bpk. Mubarak"
+    },
+    {
+      "id": "std-Kelas6B-10",
+      "nis": "20216210",
+      "name": "Alifiya Zahra",
+      "gender": "P",
+      "className": "Kelas 6B",
+      "parentName": "Ibu Alifiya",
+      "phone": "081234560170"
+    },
+    {
+      "id": "std-Kelas6B-11",
+      "nis": "20216211",
+      "name": "Ahmad Syahputra",
+      "gender": "L",
+      "className": "Kelas 6B",
+      "parentName": "Bpk. Syahputra"
+    },
+    {
+      "id": "std-Kelas6B-12",
+      "nis": "20216212",
+      "name": "Hana Salsabila",
+      "gender": "P",
+      "className": "Kelas 6B",
+      "parentName": "Ibu Hana"
+    },
+    {
+      "id": "std-Kelas6B-13",
+      "nis": "20216213",
+      "name": "Dzaky Rayyan",
+      "gender": "L",
+      "className": "Kelas 6B",
+      "parentName": "Bpk. Rayyan",
+      "phone": "081234560173"
+    },
+    {
+      "id": "std-Kelas6B-14",
+      "nis": "20216214",
+      "name": "Nada Syarifah",
+      "gender": "P",
+      "className": "Kelas 6B",
+      "parentName": "Ibu Nada"
+    }
+  ],
+  "attendances": [
+    {
+      "id": "att-20260925-4A",
+      "date": "2026-09-25",
+      "className": "Kelas 4A",
+      "records": [
+        {
+          "studentId": "std-Kelas4A-1",
+          "studentName": "Fatih Al-Ghifari",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-2",
+          "studentName": "Kayla Salsabila",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-3",
+          "studentName": "Ibrahim Syahrin",
+          "status": "S",
+          "notes": "Demam flu sejak kemarin sore"
+        },
+        {
+          "studentId": "std-Kelas4A-4",
+          "studentName": "Salwa Syarifah",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-5",
+          "studentName": "M. Naufal Hidayatullah",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-6",
+          "studentName": "Naila Husna",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-7",
+          "studentName": "Rayhan Hakim",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-8",
+          "studentName": "Safiyyah Azzahra",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-9",
+          "studentName": "Wildan Shiddiq",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-10",
+          "studentName": "Adiba Putri",
+          "status": "I",
+          "notes": "Acara keluarga silaturahmi"
+        },
+        {
+          "studentId": "std-Kelas4A-11",
+          "studentName": "Salman Mubarak",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-12",
+          "studentName": "Alifiya Zahra",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-13",
+          "studentName": "Ahmad Syahputra",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-14",
+          "studentName": "Hana Salsabila",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-15",
+          "studentName": "Dzaky Rayyan",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-16",
+          "studentName": "Nada Syarifah",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-17",
+          "studentName": "Hafizh Azka",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-18",
+          "studentName": "Zahira Husna",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-19",
+          "studentName": "M. Alfi Maulana",
+          "status": "H",
+          "notes": ""
+        },
+        {
+          "studentId": "std-Kelas4A-20",
+          "studentName": "Maryam Azzahra",
+          "status": "H",
+          "notes": ""
+        }
+      ],
+      "summary": {
+        "hadir": 18,
+        "sakit": 1,
+        "izin": 1,
+        "alpa": 0,
+        "total": 20
+      },
+      "submittedBy": "Ahmad Fauzi, S.Pd.I",
+      "updatedAt": "2026-09-25T07:45:00.000Z"
+    }
+  ],
+  "journals": [
+    {
+      "id": "jrn-1",
+      "date": "2026-09-25",
+      "className": "Kelas 4A",
+      "subject": "Fikih",
+      "period": "Jam 1-2 (07.15 - 08.25)",
+      "topic": "Tanda-Tanda Baligh Bagi Laki-laki & Perempuan",
+      "activities": "Ceramah interaktif, tanya jawab fiqih thaharah, dan pemaparan poster tanda baligh menurut Islam.",
+      "notes": "Anak-anak sangat antusias dan tertib. Ahmad Zaidan sakit flu, materi akan disusulkan.",
+      "attendanceSummaryText": "18 Hadir, 1 Sakit, 1 Izin",
+      "teacherName": "Ahmad Fauzi, S.Pd.I",
+      "createdAt": "2026-09-25T08:30:00.000Z"
+    },
+    {
+      "id": "jrn-2",
+      "date": "2026-09-25",
+      "className": "Kelas 4A",
+      "subject": "Matematika",
+      "period": "Jam 3-4 (08.45 - 09.55)",
+      "topic": "Penjumlahan dan Pengurangan Pecahan Biasa",
+      "activities": "Latihan soal kelompok menggunakan kertas lipat warna untuk visualisasi penyebut pecahan.",
+      "notes": "Sebagian besar tuntas, 3 siswa butuh penguatan perkalian silang penyebut sama.",
+      "attendanceSummaryText": "18 Hadir, 1 Sakit, 1 Izin",
+      "teacherName": "Ahmad Fauzi, S.Pd.I",
+      "createdAt": "2026-09-25T10:05:00.000Z"
+    }
+  ],
+  "grades": [
+    {
+      "id": "grd-1",
+      "subject": "Fikih",
+      "assessmentName": "Tugas 1 - Rukun & Syarat Thaharah",
+      "className": "Kelas 4A",
+      "date": "2026-09-22",
+      "maxScore": 100,
+      "passingScore": 75,
+      "studentScores": [
+        {
+          "studentId": "std-Kelas4A-1",
+          "studentName": "Fatih Al-Ghifari",
+          "score": 88,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-2",
+          "studentName": "Kayla Salsabila",
+          "score": 92,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-3",
+          "studentName": "Ibrahim Syahrin",
+          "score": 78,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-4",
+          "studentName": "Salwa Syarifah",
+          "score": 85,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-5",
+          "studentName": "M. Naufal Hidayatullah",
+          "score": 90,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-6",
+          "studentName": "Naila Husna",
+          "score": 76,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-7",
+          "studentName": "Rayhan Hakim",
+          "score": 82,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-8",
+          "studentName": "Safiyyah Azzahra",
+          "score": 95,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-9",
+          "studentName": "Wildan Shiddiq",
+          "score": 84,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-10",
+          "studentName": "Adiba Putri",
+          "score": 80,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-11",
+          "studentName": "Salman Mubarak",
+          "score": 86,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-12",
+          "studentName": "Alifiya Zahra",
+          "score": 90,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-13",
+          "studentName": "Ahmad Syahputra",
+          "score": 88,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-14",
+          "studentName": "Hana Salsabila",
+          "score": 74,
+          "notes": "Remedial soal nomor 4 dan 5"
+        },
+        {
+          "studentId": "std-Kelas4A-15",
+          "studentName": "Dzaky Rayyan",
+          "score": 85,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-16",
+          "studentName": "Nada Syarifah",
+          "score": 92,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-17",
+          "studentName": "Hafizh Azka",
+          "score": 79,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-18",
+          "studentName": "Zahira Husna",
+          "score": 88,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-19",
+          "studentName": "M. Alfi Maulana",
+          "score": 75,
+          "notes": "Lengkap dan rapi"
+        },
+        {
+          "studentId": "std-Kelas4A-20",
+          "studentName": "Maryam Azzahra",
+          "score": 94,
+          "notes": "Lengkap dan rapi"
+        }
+      ]
+    },
+    {
+      "id": "grd-2",
+      "subject": "Matematika",
+      "assessmentName": "UH 1 - Pecahan Senilai & Sederhana",
+      "className": "Kelas 4A",
+      "date": "2026-09-24",
+      "maxScore": 100,
+      "passingScore": 75,
+      "studentScores": [
+        {
+          "studentId": "std-Kelas4A-1",
+          "studentName": "Fatih Al-Ghifari",
+          "score": 85,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-2",
+          "studentName": "Kayla Salsabila",
+          "score": 90,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-3",
+          "studentName": "Ibrahim Syahrin",
+          "score": 75,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-4",
+          "studentName": "Salwa Syarifah",
+          "score": 88,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-5",
+          "studentName": "M. Naufal Hidayatullah",
+          "score": 95,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-6",
+          "studentName": "Naila Husna",
+          "score": 78,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-7",
+          "studentName": "Rayhan Hakim",
+          "score": 80,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-8",
+          "studentName": "Safiyyah Azzahra",
+          "score": 92,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-9",
+          "studentName": "Wildan Shiddiq",
+          "score": 85,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-10",
+          "studentName": "Adiba Putri",
+          "score": 72,
+          "notes": "Remedial hitungan penyebut berbeda"
+        },
+        {
+          "studentId": "std-Kelas4A-11",
+          "studentName": "Salman Mubarak",
+          "score": 84,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-12",
+          "studentName": "Alifiya Zahra",
+          "score": 88,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-13",
+          "studentName": "Ahmad Syahputra",
+          "score": 86,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-14",
+          "studentName": "Hana Salsabila",
+          "score": 76,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-15",
+          "studentName": "Dzaky Rayyan",
+          "score": 82,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-16",
+          "studentName": "Nada Syarifah",
+          "score": 90,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-17",
+          "studentName": "Hafizh Azka",
+          "score": 74,
+          "notes": "Remedial hitungan penyebut berbeda"
+        },
+        {
+          "studentId": "std-Kelas4A-18",
+          "studentName": "Zahira Husna",
+          "score": 85,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-19",
+          "studentName": "M. Alfi Maulana",
+          "score": 78,
+          "notes": "Memuaskan"
+        },
+        {
+          "studentId": "std-Kelas4A-20",
+          "studentName": "Maryam Azzahra",
+          "score": 92,
+          "notes": "Memuaskan"
+        }
+      ]
+    }
+  ],
+  "schedules": [
+    {
+      "id": "sch-1",
+      "day": "Senin",
+      "timeSlot": "07.00 - 07.45",
+      "periodNumber": "Upacara",
+      "subject": "Upacara Bendera & Doa Pagi",
+      "className": "Halaman Madrasah",
+      "room": "Lapangan"
+    },
+    {
+      "id": "sch-2",
+      "day": "Senin",
+      "timeSlot": "07.45 - 09.00",
+      "periodNumber": "1-2",
+      "subject": "Al-Qur'an Hadits",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-3",
+      "day": "Senin",
+      "timeSlot": "09.30 - 10.45",
+      "periodNumber": "3-4",
+      "subject": "Bahasa Indonesia",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-4",
+      "day": "Senin",
+      "timeSlot": "11.00 - 12.10",
+      "periodNumber": "5-6",
+      "subject": "Akidah Akhlak",
+      "className": "Kelas 4B",
+      "room": "R. 4B"
+    },
+    {
+      "id": "sch-5",
+      "day": "Selasa",
+      "timeSlot": "07.15 - 08.25",
+      "periodNumber": "1-2",
+      "subject": "Matematika",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-6",
+      "day": "Selasa",
+      "timeSlot": "08.45 - 09.55",
+      "periodNumber": "3-4",
+      "subject": "IPAS (Sains)",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-7",
+      "day": "Selasa",
+      "timeSlot": "10.15 - 11.25",
+      "periodNumber": "5-6",
+      "subject": "Bahasa Jawa",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-8",
+      "day": "Rabu",
+      "timeSlot": "07.15 - 08.25",
+      "periodNumber": "1-2",
+      "subject": "Fikih Ibadah",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-9",
+      "day": "Rabu",
+      "timeSlot": "08.45 - 09.55",
+      "periodNumber": "3-4",
+      "subject": "Bahasa Arab",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-10",
+      "day": "Rabu",
+      "timeSlot": "10.15 - 11.25",
+      "periodNumber": "5-6",
+      "subject": "Sejarah Kebudayaan Islam (SKI)",
+      "className": "Kelas 5B",
+      "room": "R. 5B"
+    },
+    {
+      "id": "sch-11",
+      "day": "Kamis",
+      "timeSlot": "07.15 - 08.25",
+      "periodNumber": "1-2",
+      "subject": "Matematika Lanjut",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-12",
+      "day": "Kamis",
+      "timeSlot": "08.45 - 09.55",
+      "periodNumber": "3-4",
+      "subject": "Seni Budaya & Prakarya",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-13",
+      "day": "Kamis",
+      "timeSlot": "10.15 - 11.25",
+      "periodNumber": "5-6",
+      "subject": "Pendidikan Pancasila",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-14",
+      "day": "Jumat",
+      "timeSlot": "06.45 - 07.30",
+      "periodNumber": "Sholat Dhuha",
+      "subject": "Dhuha Bersama & Istighosah",
+      "className": "Seluruh Siswa",
+      "room": "Musholla Madrasah"
+    },
+    {
+      "id": "sch-15",
+      "day": "Jumat",
+      "timeSlot": "07.30 - 08.40",
+      "periodNumber": "1-2",
+      "subject": "Fikih Praktik Ibadah",
+      "className": "Kelas 4A",
+      "room": "Musholla"
+    },
+    {
+      "id": "sch-16",
+      "day": "Jumat",
+      "timeSlot": "09.00 - 10.15",
+      "periodNumber": "3-4",
+      "subject": "Infaq Jum'at & Tahsin Qur'an",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    },
+    {
+      "id": "sch-17",
+      "day": "Sabtu",
+      "timeSlot": "07.00 - 08.30",
+      "periodNumber": "Ekstra 1",
+      "subject": "Pramuka Penggalang / Siaga MI",
+      "className": "Kelas 3-4",
+      "room": "Lapangan"
+    },
+    {
+      "id": "sch-18",
+      "day": "Sabtu",
+      "timeSlot": "09.00 - 10.30",
+      "periodNumber": "Ekstra 2",
+      "subject": "Bimbingan Baca Kitab / Khot Arab",
+      "className": "Kelas 4A",
+      "room": "R. 4A"
+    }
+  ],
+  "reminders": [
+    {
+      "id": "rem-1",
+      "title": "Koreksi PR Matematika Pecahan Kelas 4A",
+      "description": "Periksa buku tugas halaman 24 nomor 1-10 sebelum jam istirahat kedua.",
+      "dueDate": "2026-09-26",
+      "dueTime": "09:30",
+      "priority": "tinggi",
+      "completed": false,
+      "category": "Koreksi",
+      "createdAt": "2026-09-25T06:00:00.000Z"
+    },
+    {
+      "id": "rem-2",
+      "title": "Kirim Rekap Absensi Harian ke Pak Samsuri Arif",
+      "description": "Kirimkan laporan harian via tombol email ke samsuriarifkom@gmail.com.",
+      "dueDate": "2026-09-25",
+      "dueTime": "13:00",
+      "priority": "tinggi",
+      "completed": true,
+      "category": "Administrasi",
+      "createdAt": "2026-09-25T06:30:00.000Z"
+    },
+    {
+      "id": "rem-3",
+      "title": "Kirim Pengumuman Infaq Jum'at ke Grup WA Wali Murid",
+      "description": "Gunakan Generator WA untuk memformat pengingat sedekah Jum'at berkah.",
+      "dueDate": "2026-09-25",
+      "dueTime": "19:30",
+      "priority": "sedang",
+      "completed": false,
+      "category": "Wali Murid",
+      "createdAt": "2026-09-25T07:00:00.000Z"
+    },
+    {
+      "id": "rem-4",
+      "title": "Siapkan Modul Ajar Fikih Bab Mandi Wajib",
+      "description": "Cetak lembar rukun mandi wajib untuk pertemuan Rabu depan.",
+      "dueDate": "2026-09-28",
+      "dueTime": "08:00",
+      "priority": "biasa",
+      "completed": false,
+      "category": "KBM",
+      "createdAt": "2026-09-25T08:00:00.000Z"
+    }
+  ],
+  "reports": [
+    {
+      "id": "rep-init-1",
+      "timestamp": "2026-09-25T13:02:15.000Z",
+      "teacherName": "Ahmad Fauzi, S.Pd.I",
+      "className": "Kelas 4A",
+      "reportType": "Harian Lengkap",
+      "recipientEmail": "samsuriarifkom@gmail.com",
+      "subject": "[LAPORAN HARIAN MI MIFTAHUL HUDA] Kelas 4A - 25 September 2026",
+      "contentSnippet": "Kehadiran: 18 Hadir, 1 Sakit (Ahmad Zaidan), 1 Izin (Hana). Jurnal: 2 Sesi KBM (Fikih & Matematika).",
+      "status": "Tersimpan di Cloud"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "tch-01",
+      "name": "Ahmad Fauzi, S.Pd.I",
+      "nip": "19880415 201403 1 002",
+      "subject": "Fikih & Akidah Akhlak",
+      "phone": "081234567891",
+      "email": "ahmadfauzi@miftahulhuda.sch.id",
+      "assignedClass": "Kelas 4A",
+      "gender": "L",
+      "notes": "Wali Kelas 4A"
+    },
+    {
+      "id": "tch-02",
+      "name": "Siti Nur Halimah, S.Pd.",
+      "nip": "19910520 201902 2 004",
+      "subject": "Guru Kelas 1A & Tematik",
+      "phone": "081398765432",
+      "email": "halimah@miftahulhuda.sch.id",
+      "assignedClass": "Kelas 1A",
+      "gender": "P",
+      "notes": "Wali Kelas 1A"
+    },
+    {
+      "id": "tch-03",
+      "name": "Moh. Zainul Muttaqin, S.Pd.I",
+      "nip": "19850212 201001 1 015",
+      "subject": "Al-Qur'an Hadits & Bahasa Arab",
+      "phone": "085233445566",
+      "email": "zainul@miftahulhuda.sch.id",
+      "assignedClass": "Kelas 5A",
+      "gender": "L",
+      "notes": "Wali Kelas 5A"
+    },
+    {
+      "id": "tch-04",
+      "name": "Lilik Rahmawati, S.Pd.SD",
+      "nip": "19890918 201503 2 003",
+      "subject": "Matematika & IPAS",
+      "phone": "087755667788",
+      "email": "lilik@miftahulhuda.sch.id",
+      "assignedClass": "Kelas 6A",
+      "gender": "P",
+      "notes": "Wali Kelas 6A"
+    },
+    {
+      "id": "tch-05",
+      "name": "Muhammad Ridwan, S.Pd.",
+      "nip": "19940304 202012 1 007",
+      "subject": "PJOK & Ke-NU-an / Aswaja",
+      "phone": "082144556677",
+      "email": "ridwan@miftahulhuda.sch.id",
+      "assignedClass": "Kelas 3B",
+      "gender": "L",
+      "notes": "Wali Kelas 3B"
+    },
+    {
+      "id": "tch-06",
+      "name": "Nurul Maghfiroh, S.Hum",
+      "nip": "19931125 201903 2 011",
+      "subject": "Sejarah Kebudayaan Islam & Seni Budaya",
+      "phone": "085811223344",
+      "email": "maghfiroh@miftahulhuda.sch.id",
+      "assignedClass": "Kelas 5B",
+      "gender": "P",
+      "notes": "Wali Kelas 5B"
+    }
+  ]
+}
